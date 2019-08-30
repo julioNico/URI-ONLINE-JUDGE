@@ -1,3 +1,5 @@
+//Aprendendo a utilizar a Biblioteca BigDecimal e seus métodos.
+
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.Locale;
